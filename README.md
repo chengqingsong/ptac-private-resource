@@ -1,2 +1,2 @@
 # ptac-private-resource
-我们不会开源
+Open source is a joke for them
